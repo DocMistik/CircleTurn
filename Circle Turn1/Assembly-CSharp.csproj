@@ -54,13 +54,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\BallRotation.cs" />
+    <Compile Include="Assets\Scripts\GemSpawn.cs" />
     <Compile Include="Assets\Scripts\Enemy_Move.cs" />
-    <Compile Include="Assets\Scripts\Counter.cs" />
     <Compile Include="Assets\Scripts\Enemy_Spawner.cs" />
-    <Compile Include="Assets\Scripts\BallLogic.cs" />
     <Compile Include="Assets\Scripts\Destroyer.cs" />
     <Compile Include="Assets\Scripts\GemMove.cs" />
-    <Compile Include="Assets\Scripts\GemSpawn.cs" />
+    <Compile Include="Assets\Scripts\Score.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

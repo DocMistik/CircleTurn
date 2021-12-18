@@ -21,7 +21,7 @@ public class Enemy_Spawner : MonoBehaviour
         yield return new WaitForSeconds(1);
         Vector2 pos = spawnPos.position + new Vector3(0, Random.Range(-range.y, range.y));
         float varity = Random.Range(1, 10);
-        if (varity < 2)
+        if (varity < 3)
         {
             Instantiate(gem, pos, Quaternion.identity);
         }
