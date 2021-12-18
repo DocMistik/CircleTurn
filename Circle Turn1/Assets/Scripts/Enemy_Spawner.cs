@@ -17,7 +17,7 @@ public class Enemy_Spawner : MonoBehaviour
 
     IEnumerator Spawn()
     {
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(1);
         Vector2 pos = spawnPos.position + new Vector3(0, Random.Range(-range.y, range.y));
         Instantiate(enemy, pos, Quaternion.identity);
         Repeat();
