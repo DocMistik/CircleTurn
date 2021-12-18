@@ -1,22 +1,20 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: "C:/Users/\u042D\u0442\u043E \u041D\u043E\u0443\u0442/Documents/GitHub/CircleTurn/Circle
-      Turn1/Packages/manifest.json"
+    m_FilePath: "C:/Users/\u0414\u041D\u0421/Documents/GitHub/CircleTurn/Circle Turn1/Packages/manifest.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637753712841698241
-    m_Hash: 238244261
+      ticks: 637753958584272425
+    m_Hash: 1925581752
   m_LockFileStatus:
-    m_FilePath: "C:/Users/\u042D\u0442\u043E \u041D\u043E\u0443\u0442/Documents/GitHub/CircleTurn/Circle
-      Turn1/Packages/packages-lock.json"
+    m_FilePath: "C:/Users/\u0414\u041D\u0421/Documents/GitHub/CircleTurn/Circle Turn1/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637753714494769964
-    m_Hash: 201114752
+      ticks: 637753958584272425
+    m_Hash: 3207447393
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -27,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.0.9
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.2d.animation@5.0.9"
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
@@ -184,7 +182,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.0.1
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.2d.pixel-perfect@4.0.1"
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
@@ -260,7 +258,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.1.2
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.2d.psdimporter@4.1.2"
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
@@ -390,7 +388,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.2d.sprite@1.0.0"
       assetPath: Packages/com.unity.2d.sprite
       name: com.unity.2d.sprite
@@ -442,7 +440,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.1.6
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.2d.spriteshape@5.1.6"
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
@@ -592,7 +590,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0"
       assetPath: Packages/com.unity.2d.tilemap
       name: com.unity.2d.tilemap
@@ -643,7 +641,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.15.4
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.collab-proxy@1.15.4"
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
@@ -770,7 +768,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.ide.rider@2.0.7"
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
@@ -878,7 +876,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.12
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.ide.visualstudio@2.0.12"
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
@@ -968,7 +966,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.4
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.ide.vscode@1.2.4"
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
@@ -1040,7 +1038,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.29
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.test-framework@1.1.29"
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
@@ -1134,7 +1132,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6"
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
@@ -1298,7 +1296,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.timeline@1.4.8"
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
@@ -1457,7 +1455,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.ugui@1.0.0"
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
@@ -1521,7 +1519,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.ai@1.0.0"
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
@@ -1570,7 +1568,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.androidjni@1.0.0"
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
@@ -1619,7 +1617,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.animation@1.0.0"
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
@@ -1668,7 +1666,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.assetbundle@1.0.0"
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
@@ -1717,7 +1715,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.audio@1.0.0"
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
@@ -1766,7 +1764,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.cloth@1.0.0"
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
@@ -1819,7 +1817,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.director@1.0.0"
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
@@ -1876,7 +1874,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.imageconversion@1.0.0"
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
@@ -1926,7 +1924,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.imgui@1.0.0"
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
@@ -1975,7 +1973,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.jsonserialize@1.0.0"
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
@@ -2024,7 +2022,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.particlesystem@1.0.0"
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
@@ -2073,7 +2071,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.physics@1.0.0"
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
@@ -2122,7 +2120,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.physics2d@1.0.0"
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
@@ -2171,7 +2169,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.screencapture@1.0.0"
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
@@ -2224,7 +2222,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.terrain@1.0.0"
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
@@ -2273,7 +2271,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.terrainphysics@1.0.0"
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
@@ -2330,7 +2328,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.tilemap@1.0.0"
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
@@ -2383,7 +2381,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.ui@1.0.0"
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
@@ -2432,7 +2430,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.uielements@1.0.0"
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
@@ -2497,7 +2495,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.umbra@1.0.0"
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
@@ -2546,7 +2544,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.unityanalytics@1.0.0"
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
@@ -2603,7 +2601,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.unitywebrequest@1.0.0"
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
@@ -2652,7 +2650,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle@1.0.0"
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
@@ -2709,7 +2707,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio@1.0.0"
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
@@ -2766,7 +2764,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture@1.0.0"
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
@@ -2823,7 +2821,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww@1.0.0"
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
@@ -2896,7 +2894,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.vehicles@1.0.0"
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
@@ -2949,7 +2947,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.video@1.0.0"
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
@@ -3010,7 +3008,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.vr@1.0.0"
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
@@ -3073,7 +3071,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.wind@1.0.0"
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
@@ -3122,7 +3120,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.xr@1.0.0"
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
@@ -3183,7 +3181,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.subsystems@1.0.0"
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
@@ -3236,7 +3234,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.modules.uielementsnative@1.0.0"
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
@@ -3296,7 +3294,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6"
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
@@ -3348,7 +3346,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.0.0
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@2.0.0"
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
@@ -3405,7 +3403,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.1
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.services.core@1.0.1"
       assetPath: Packages/com.unity.services.core
       name: com.unity.services.core
@@ -3461,7 +3459,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.mathematics@1.1.0"
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
@@ -3478,38 +3476,12 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.0.12-preview.2
-        - 0.0.12-preview.5
-        - 0.0.12-preview.8
-        - 0.0.12-preview.10
-        - 0.0.12-preview.11
-        - 0.0.12-preview.13
-        - 0.0.12-preview.17
-        - 0.0.12-preview.19
-        - 0.0.12-preview.20
-        - 1.0.0-preview.1
-        - 1.0.1
-        - 1.1.0-preview.1
         - 1.1.0
         - 1.2.1
-        - 1.2.4
         - 1.2.5
         compatible:
-        - 0.0.12-preview.2
-        - 0.0.12-preview.5
-        - 0.0.12-preview.8
-        - 0.0.12-preview.10
-        - 0.0.12-preview.11
-        - 0.0.12-preview.13
-        - 0.0.12-preview.17
-        - 0.0.12-preview.19
-        - 0.0.12-preview.20
-        - 1.0.0-preview.1
-        - 1.0.1
-        - 1.1.0-preview.1
         - 1.1.0
         - 1.2.1
-        - 1.2.4
         - 1.2.5
         verified: 1.2.5
       dependencies: []
@@ -3528,7 +3500,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 636984649280000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3541,7 +3513,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.3
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.2d.common@4.0.3"
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
@@ -3607,7 +3579,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.2
       source: 1
-      resolvedPath: "C:\\Users\\\u042D\u0442\u043E \u041D\u043E\u0443\u0442\\Documents\\GitHub\\CircleTurn\\Circle
+      resolvedPath: "C:\\Users\\\u0414\u041D\u0421\\Documents\\GitHub\\CircleTurn\\Circle
         Turn1\\Library\\PackageCache\\com.unity.2d.path@4.0.2"
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
@@ -3655,6 +3627,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: "C:/Users/\u042D\u0442\u043E \u041D\u043E\u0443\u0442/Documents/GitHub/CircleTurn/Circle
-  Turn1/Packages"
+m_ProjectPath: "C:/Users/\u0414\u041D\u0421/Documents/GitHub/CircleTurn/Circle Turn1/Packages"
 m_EditorVersion: 2020.3.24f1 (79c78de19888)

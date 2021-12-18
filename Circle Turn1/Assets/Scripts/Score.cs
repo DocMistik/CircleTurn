@@ -6,6 +6,8 @@ public class Score : MonoBehaviour
 {
     public int score;
     [SerializeField] Text scoreText;
+    [SerializeField] Text highscoreText;
+    private int maxscore = 0;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -14,10 +16,16 @@ public class Score : MonoBehaviour
             Destroy(other.gameObject);
             score++;
             scoreText.text = "Score: " + score.ToString();
+            if (score > maxscore)
+            {
+                maxscore = score;
+                highscoreText.text = "Highscore: " + maxscore.ToString();
+            }
         }
         if (other.gameObject.tag == "Enemy")
         {
-            Destroy(gameObject);
+            scoreText.text = scoreText.text = "Score: 0";
+            score = 0;
         }
     }
 
