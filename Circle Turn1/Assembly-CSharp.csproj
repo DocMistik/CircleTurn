@@ -54,8 +54,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\BallRotation.cs" />
-    <Compile Include="Assets\Scripts\Enemy_Spawner.cs" />
     <Compile Include="Assets\Scripts\Enemy_Move.cs" />
+    <Compile Include="Assets\Scripts\Enemy_Spawner.cs" />
+    <Compile Include="Assets\Scripts\Destroyer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
