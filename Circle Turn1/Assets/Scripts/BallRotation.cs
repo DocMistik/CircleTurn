@@ -10,14 +10,14 @@ public class BallRotation: MonoBehaviour
 
     void FixedUpdate()
     {
-        if (direction = false)
+        if (direction == false)
             CenterCircle.transform.Rotate(0, 0, 150 * Time.deltaTime);
         else
             CenterCircle.transform.Rotate(0, 0, -150 * Time.deltaTime);
 
     }
 
-    public void ChangeDirection()
+    public void Button()
     {
         direction = !direction;
     }
